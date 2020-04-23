@@ -1,7 +1,7 @@
-# 4Coder custom theme rfaile313 mod-monokai
-### This is my custom 4coder theme I call "modified monokai"
+# 4Coder custom theme rfaile313 "mod-monokai"
+### This is my custom 4coder theme based losely on a monokai pallette.
 
-### The goal is to offer a nice level of readable contrast without being too bright in any single place.
+### The goal is to offer a nice level of readable contrast without being too bright in any one place.
 
 ## C Program Example:
 
