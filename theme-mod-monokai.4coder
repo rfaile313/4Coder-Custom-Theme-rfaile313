@@ -1,0 +1,48 @@
+// Mod Monokai
+// Created by: Rudy Faile
+
+defcolor_back = 0xFF101010;
+defcolor_margin = 0xFF181818;
+defcolor_margin_hover = 0xFF252525;
+defcolor_margin_active = 0xFF323232;
+defcolor_list_item = {defcolor_margin, defcolor_back};
+defcolor_list_item_hover = {defcolor_margin_hover, defcolor_margin};
+defcolor_list_item_active = {defcolor_margin_active, defcolor_margin_active};
+defcolor_cursor = {0xFF656565, 0xFF654065};
+defcolor_highlight = 0xFF636066;
+defcolor_mark = defcolor_cursor;
+defcolor_text_default = 0xFFe3e0d7;
+defcolor_at_cursor = defcolor_back;
+defcolor_highlight_cursor_line = 0xFF383838;
+defcolor_at_highlight = 0xFFd787ff;
+defcolor_comment = 0xFF75715E;
+defcolor_comment_pop = {0xFF00A000, 0xFFA00000};
+defcolor_keyword = 0xFFa6ff2e;
+defcolor_str_constant = 0xFFfd971f;
+defcolor_char_constant = 0xFFfd971f;
+defcolor_int_constant = 0xFF66D9EF;
+defcolor_float_constant = 0xFFf5e96c;
+defcolor_bool_constant = 0xFFf5e96c;
+defcolor_include = 0xFFf02672;
+defcolor_preproc = 0xFFf02672;
+defcolor_special_character = 0xFFfd971f;
+defcolor_ghost_character = 0xFFffb266;
+
+defcolor_paste = defcolor_ghost_character;
+
+defcolor_undo = defcolor_keyword;
+
+defcolor_highlight_junk = 0xFFD18aff;
+defcolor_highlight_white = 0xFF3e3969;
+
+defcolor_bar = 0xFFFFFFFF;
+defcolor_bar_active = 0xFF66FFB2;
+defcolor_base = 0xFF000000;
+defcolor_pop1 = 0xFFa6ff2e;
+defcolor_pop2 = defcolor_highlight_junk;
+
+defcolor_back_cycle = {0x10A00000, 0x0C00A000, 0x0C0000A0, 0x0CA0A000};
+defcolor_text_cycle = {0xFFA00000, 0xFF00A000, 0xFF0030B8, 0xFFA0A000};
+
+defcolor_line_numbers_back = 0xFF202020;
+defcolor_line_numbers_text = 0xFF737067;
